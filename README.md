@@ -1,2 +1,2 @@
 # Incremental-Face-Recognition
-Incremental Face Recognition
+In this Incremental Face Recognition project, I used Python, Scikit-learn, OpenCV, TensorFlow, Keras, Pandas, Numpy, Matplotlib, and Seaborn. I preprocessed the Yale Dataset by detecting and cropping face regions using OpenCV’s Haar Cascade classifier. I trained various machine learning models, achieving 96.97% accuracy with SVM. Additionally, I developed an incremental model capable of updating to recognize new employees, maintaining high accuracy and adaptability.
